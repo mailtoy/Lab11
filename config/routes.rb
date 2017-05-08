@@ -10,5 +10,4 @@ get '/contact', to: 'static_pages#contact'
 
 get '/login', to: 'static_pages#login'
 
-
 end
